@@ -2,4 +2,4 @@
 
 ### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
 
-![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
+![Screenshot of App](https://drive.google.com/file/d/1KYn4TtXFKeiFW3URWdTKYGpY0ih2LdjZ/view?usp=sharing)
